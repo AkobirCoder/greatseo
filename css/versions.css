@@ -1,0 +1,484 @@
+/*------------------------------------------------------------------
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    [Table of contents]
+
+    1. DEFAULT VERSION (Check style.css and colors.css)
+    2. HOSTING VERSION
+    3. SEO VERSION
+    4. WATCH VERSION
+    5. APP VERSION
+    6. CLINIC VERSION
+    7. REAL ESTATE VERSION
+    8. POLITICS VERSION
+    9. BARBER VERSION
+    10. BUILDING VERSION
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+   SEO MARKETING VERSION
+-------------------------------------------------------------------*
+
+/**************************************
+GRADIENTS 
+**************************************/
+
+body.seo_version .btn-buy:hover,
+body.seo_version .cac:hover,
+body.seo_version .icon_wrap:hover,
+body.seo_version .nav-pills > li.active > a,
+body.seo_version .nav-pills > li.active > a:focus,
+body.seo_version .nav-pills > li.active > a:hover,
+body.seo_version .icon-wrapper:hover i,
+body.seo_version .grd1 {
+    color: #ffffff;
+    background: #0594a9;    
+}
+
+
+body.seo_version .dmtop:hover,
+body.seo_version .features-right li:hover i,
+body.seo_version .features-left li:hover i,
+body.seo_version .nav-pills > li:hover > a,
+body.seo_version .nav-pills > li:focus > a,
+body.seo_version .nav-pills > li.active > a,
+body.seo_version .nav-pills > li.active > a:focus,
+body.seo_version .nav-pills > li.active > a:hover,
+body.seo_version .divider-bar,
+body.seo_version .icon-wrapper:hover i:hover,
+body.seo_version .grd1:hover,
+body.seo_version .grd1:focus {
+    background-position: 100px;
+    color: #ffffff;    
+	background: #333333;
+}
+
+body.seo_version .icon_wrap{
+	background-color: #ee902f;
+}
+
+
+body.seo_version .navbar-nav span {
+    color: #ffda44 !important;
+}
+
+body.seo_version .seo-services .col-md-3:hover img {
+    border-color: #333333;
+}
+
+body.seo_version .owl-next:hover i,
+body.seo_version .owl-prev:hover i{
+	background: #ee902f;	
+	color: #333333;
+}
+
+
+/**************************************
+OTHERS 
+**************************************/
+
+body.seo_version #clouds {
+    z-index: 1;
+    bottom: 0;
+    position: relative;
+}
+
+body.seo_version #clouds path {
+    fill: #ffffff;
+    bottom: -10px;
+    position: absolute;
+    overflow: hidden;
+    stroke: #ffffff;
+}
+
+body.seo_version #clouds1 {
+    z-index: 1;
+    bottom: 0;
+    position: relative;
+}
+
+body.seo_version #clouds1 path {
+    fill: #ffffff;
+    bottom: -10px;
+    position: absolute;
+    overflow: hidden;
+    stroke: #ffffff;
+}
+
+body.seo_version .app_iphone_02 {
+    width: 700px;
+    position: absolute;
+    right: 0%;
+    bottom: -16%;
+    z-index: 1;
+}
+
+body.seo_version .affix,
+body.seo_version .cac {
+    background-color: #121212;
+}
+
+body.seo_version .section.db,
+body.seo_version .dmtop,
+body.seo_version .dmtop,
+body.seo_version .affix {
+    background-color: #0594a9;
+}
+
+
+body.seo_version .footer-distributed form input {
+    background-color: #f2f3f5;
+}
+
+body.seo_version .btn-light {
+    color: #ffffff;
+    opacity: 1;
+}
+
+body.seo_version .btn-light i {
+    margin-right: 5px;
+    vertical-align: middle;
+	font-size: 22px;
+}
+
+body.seo_version .effect-1:after {
+    box-shadow: 0 0 0 2px #121212;
+}
+
+body.seo_version .footer a,
+body.seo_version .cac a h3,
+body.seo_version .footer-distributed form input,
+
+body.seo_version .footer {
+    color: #736e78;
+}
+
+body.seo_version .footer-distributed .footer-company-name{
+	color: #ffffff;
+}
+
+body.seo_version .footer-distributed form input::-webkit-input-placeholder {
+    color: #736e78;
+}
+
+body.seo_version .footer-distributed form input::-moz-placeholder {
+    opacity: 1;
+    color: #736e78;
+}
+
+body.seo_version .footer-distributed form input:-ms-input-placeholder {
+    color: #736e78;
+}
+
+body.seo_version .noover {
+    overflow: hidden;
+}
+
+body.seo_version .noover i {
+    font-size: 34px;
+    vertical-align: middle;
+    color: #ffffff !important;
+    color: rgba(255, 255, 255, 0.6) !important;
+}
+
+body.seo_version .noover p {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+
+
+body.seo_version .contact_form {
+    background-color: #ffffff;
+}
+
+body.seo_version .owl-next i,
+body.seo_version .owl-prev i {
+    background-color: #0594a9;
+	color: #ffffff;
+}
+
+body.seo_version .header_style_01 {
+    top: 0;
+}
+
+body.seo_version .stat-wrap .alignleft {
+    margin-right: 20px;
+}
+
+body.seo_version .stat-wrap h3 {
+    color: #121212;
+    display: block;
+    margin-top: 10px !important;
+}
+
+body.seo_version .stat-wrap .rating i {
+    color: #eabe12;
+}
+
+body.seo_version .stat-wrap p {
+    color: #121212;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0;
+    padding: 15px 0 0;
+    line-height: 1;
+}
+
+body.seo_version .service-widget h3 {
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+body.seo_version .service-widget small {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+body.seo_version .section.db .section-title h2 {
+    color: rgba(255, 255, 255, 0.7) !important;
+    padding: 0;
+    letter-spacing: 2px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+body.seo_version .message-box h2,
+body.seo_version .section .section-title h3 {
+    font-weight: bold;
+}
+
+body.seo_version .message-box h4,
+body.seo_version .section-title small {
+    font-size: 15px;
+    color: #999;
+    letter-spacing: 1px;
+    padding-bottom: 0px;
+    display: block;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+body.seo_version .apple-button a,
+body.seo_version .cac a h3,
+body.seo_version .section.db .section-title .lead {
+    color: #ffffff !important;
+}
+
+body.seo_version .apple-button {
+    line-height: 1;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 30px 20px;
+    border-radius: 8px;
+}
+
+body.seo_version .apple-button i {
+    margin: -5px 20px;
+    vertical-align: middle;
+    font-size: 64px;
+}
+
+body.seo_version .apple-button {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+body.seo_version .apple-button strong {
+    line-height: 1;
+    margin-top: 5px;
+    text-transform: uppercase;
+    font-size: 31px;
+    display: block;
+}
+
+body.seo_version .dev-list .widget p {
+    margin: 0;
+    padding: 5px 0 15px;
+}
+
+body.seo_version .dev-list img {
+    width: 100%;
+}
+
+body.seo_version .footer-social .btn {
+    padding: 0;
+    width: 35px;
+    height: 35px;
+    line-height: 33px;
+    text-align: center;
+    margin: 0 3px;
+    border: 1px solid #e80d45 !important;
+    color: #ffffff;
+    background-color: #e80d45 !important;
+}
+
+body.seo_version .dev-list .widget {
+    padding: 30px;
+    border: 1px solid #ededed;
+}
+
+body.seo_version .dev-list .widget h3 {
+    font-size: 21px;
+    padding: 0 0 5px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.seo_version .dev-list .widget-title {
+    padding: 20px 0 10px;
+    margin: 0;
+    line-height: 1 !important;
+}
+
+body.seo_version .iphones {
+    width: 1080px;
+    position: absolute;
+    right: -20%;
+    bottom: -16%;
+    z-index: 0;
+}
+
+
+
+body.seo_version .seo-services p.lead {
+    margin-bottom: 0;
+    padding-bottom: 0;
+	font-size: 16px;
+}
+
+body.seo_version .how-its-work .hc h2 {
+    font-size: 64px;
+    display: block;
+    padding: 0 0 0 30px;
+    margin: 0 0 15px;
+    line-height: 1 !important;
+    border-left: 1px dashed rgba(255, 255, 255, 0.4);
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+body.seo_version .how-its-work .hc p {
+    font-size: 21px;
+    font-weight: 300;
+    color: #ffffff !important;
+}
+
+body.seo_version .how-its-work .hc p.lead {
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+body.seo_version .hc.colon1 {
+    background-color: #0d61d0;
+}
+
+body.seo_version .hc.colon2 {
+    background-color: #0053c2;
+}
+
+body.seo_version .hc.colon3 {
+    background-color: #0049b8;
+}
+
+body.seo_version .hc.colon4 {
+    background-color: #003ead;
+}
+
+body.seo_version .app-features li {
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 30px;
+}
+
+body.seo_version .app-features li:last-child {
+    border-bottom: 0 dashed #efefef;
+    padding-bottom: 0px;
+}
+
+body.seo_version .entry {
+    position: relative;
+    padding: 0 !important;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+body.seo_version .first-section {
+    padding: 14em 0 10em;
+}
+
+body.seo_version .first-section h2 {
+    color: #ffffff;
+    display: block;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+body.seo_version .magnifier {
+    position: absolute;
+    top: 0;
+    cursor: pointer !important;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
+    background-color: rgba(0, 0, 0, 0.8);
+    left: 500px;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    zoom: 1;
+    cursor: crosshair;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+body.seo_version .entry:hover .magnifier {
+    zoom: 1;
+    left: 0;
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+
+body.seo_version .owl-app {
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    height: 600px;
+    margin: 0 auto;
+    z-index: 1;
+    width: 300px;
+}
+
+body.seo_version .owl-app::before {
+    background: url("../images/phonebg.png") no-repeat scroll center center;
+    content: "";
+    height: 600px;
+    padding: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 300px;
+    z-index: 1;
+}
+
+body.seo_version .owl-phone {
+    overflow: hidden;
+    background-color: #111;
+    margin: 70px auto 0;
+    height: 449px;
+    display: block;
+    z-index: 2;
+    text-align: center;
+    width: 272px !important;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+

@@ -1,0 +1,253 @@
+/******************************************
+    Version: 1.0
+/****************************************** */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+@media (min-width: 768px) and (max-width: 991px) {
+	.top-navbar .navbar-light .navbar-nav .nav-item::before{
+		display: none;
+	}
+	.top-navbar .navbar-light .navbar-nav .nav-link:hover{
+		background: #333333;
+	}
+	.top-navbar .navbar-light .navbar-toggler{
+		border-radius: 0px;
+	}
+	.seo_version .sl-slider h2, .seo_version .sl-slider blockquote{
+		padding: 20px 15px 10px 15px;
+		width: 90%;
+	}
+	.bttn-new{
+		width: 180px;
+		padding: 10px 0px;
+		font-size: 14px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.why-dit h4{
+		font-size: 22px;
+	}
+	.owl-services-seo .text-center{
+		padding: 10px 15px;
+	}
+	body.seo_version .stat-wrap h3{
+		margin-bottom: 30px;
+	}
+	.pricing-palden .pricing-item{
+		padding-bottom: 30px;
+	}
+	.bttn-new-a{
+		width: 180px;
+		font-size: 14px;
+	}
+	.widget{
+		margin-bottom: 30px;
+	}
+	.message-box h2{
+		font-size: 28px;
+	}
+	.da-thumbs .pitem a div h3{
+		font-size: 20px;
+	}
+	.da-thumbs .pitem a div p{
+		font-size: 14px;
+	}
+	.inner-acc i.fa-search{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-bullseye{		
+		font-size: 170px;
+	}
+	.inner-acc i.fa-code{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-newspaper-o{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-line-chart{
+		font-size: 170px;
+	}
+	.process-accordion{
+		margin-bottom: 30px;
+	}
+	.owl-services-seo{
+		margin-top: 30px;
+	}
+	.process-accordion .card-header h5 a{
+		font-size: 16px;
+	}
+	.contact_form{
+		padding: 40px 15px;
+	}
+	.map-box {
+		padding: 40px 15px;
+	}
+}
+@media (max-width: 767px) {
+    .top-navbar .navbar-light .navbar-nav .nav-item::before{
+		display: none;
+	}
+	.top-navbar .navbar-light .navbar-nav .nav-link:hover{
+		background: #333333;
+	}
+	.top-navbar .navbar-light .navbar-toggler{
+		border-radius: 0px;
+	}
+	.seo_version .sl-slider h2, .seo_version .sl-slider blockquote{
+		padding: 20px 15px 10px 15px;
+		width: 90%;
+	}
+	.bttn-new{
+		width: 180px;
+		padding: 10px 0px;
+		font-size: 14px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.why-dit h4{
+		font-size: 22px;
+	}
+	.owl-services-seo .text-center{
+		padding: 10px 15px;
+	}
+	body.seo_version .stat-wrap h3{
+		margin-bottom: 30px;
+	}
+	.pricing-palden .pricing-item{
+		padding-bottom: 30px;
+	}
+	.bttn-new-a{
+		width: 180px;
+		font-size: 14px;
+	}
+	.widget{
+		margin-bottom: 30px;
+	}
+	.message-box h2{
+		font-size: 28px;
+	}
+	.da-thumbs .pitem a div h3{
+		font-size: 20px;
+	}
+	.da-thumbs .pitem a div p{
+		font-size: 14px;
+	}
+	.inner-acc i.fa-search{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-bullseye{		
+		font-size: 170px;
+	}
+	.inner-acc i.fa-code{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-newspaper-o{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-line-chart{
+		font-size: 170px;
+	}
+	.process-accordion{
+		margin-bottom: 30px;
+	}
+	.owl-services-seo{
+		margin-top: 30px;
+	}
+	.process-accordion .card-header h5 a{
+		font-size: 16px;
+	}
+	.contact_form{
+		padding: 40px 15px;
+	}
+	.map-box {
+		padding: 40px 15px;
+	}
+}
+
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+    .top-navbar .navbar-light .navbar-nav .nav-item::before{
+		display: none;
+	}
+	.top-navbar .navbar-light .navbar-nav .nav-link:hover{
+		background: #333333;
+	}
+	.top-navbar .navbar-light .navbar-toggler{
+		border-radius: 0px;
+	}
+	.seo_version .sl-slider h2, .seo_version .sl-slider blockquote{
+		padding: 20px 15px 10px 15px;
+		width: 90%;
+	}
+	.bttn-new{
+		width: 180px;
+		padding: 10px 0px;
+		font-size: 14px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.why-dit h4{
+		font-size: 22px;
+	}
+	.owl-services-seo .text-center{
+		padding: 10px 15px;
+	}
+	body.seo_version .stat-wrap h3{
+		margin-bottom: 30px;
+	}
+	.pricing-palden .pricing-item{
+		padding-bottom: 30px;
+	}
+	.bttn-new-a{
+		width: 180px;
+		font-size: 14px;
+	}
+	.widget{
+		margin-bottom: 30px;
+	}
+	.message-box h2{
+		font-size: 28px;
+	}
+	.da-thumbs .pitem a div h3{
+		font-size: 20px;
+	}
+	.da-thumbs .pitem a div p{
+		font-size: 14px;
+	}
+	.inner-acc i.fa-search{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-bullseye{		
+		font-size: 170px;
+	}
+	.inner-acc i.fa-code{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-newspaper-o{
+		font-size: 170px;
+	}
+	.inner-acc i.fa-line-chart{
+		font-size: 170px;
+	}
+	.process-accordion{
+		margin-bottom: 30px;
+	}
+	.owl-services-seo{
+		margin-top: 30px;
+	}
+	.process-accordion .card-header h5 a{
+		font-size: 16px;
+	}
+	.contact_form{
+		padding: 40px 15px;
+	}
+	.map-box {
+		padding: 40px 15px;
+	}
+	.seo_version .sl-slider blockquote p{
+		font-size: 16px;
+	}
+}
+
